@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/Users/hudsonmcashan/Documents/Workspace/CoxAutoApp/AutoApp.xcodeproj">
+      location = "group:AutoApp.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
